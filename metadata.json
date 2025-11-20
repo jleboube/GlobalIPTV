@@ -1,0 +1,5 @@
+{
+  "name": "GlobalStream IPTV & Veo Studio",
+  "description": "An interactive 3D globe visualizing IPTV channels worldwide, featuring Gemini-powered insights, Search & Maps grounding, and Veo video generation.",
+  "requestFramePermissions": []
+}
