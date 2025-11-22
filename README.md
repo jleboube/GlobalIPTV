@@ -32,7 +32,7 @@ GlobalTV Channels and Video Stream
 This contains everything you need to run your app locally or deploy with Docker.
 
 
-## 🚀 Quick Start with Docker (Recommended)
+## Quick Start with Docker (Recommended)
 
 **Prerequisites:** Docker and Docker Compose
 
@@ -82,7 +82,7 @@ docker-compose exec app sh
 docker-compose down -v
 ```
 
-## 💻 Run Locally (Development)
+## Run Locally (Development)
 
 **Prerequisites:** Node.js 20+
 
@@ -105,7 +105,7 @@ docker-compose down -v
 4. **Access the app:**
    Open [http://localhost:3000](http://localhost:3000)
 
-## 🔧 Configuration
+## Configuration
 
 ### Port Configuration
 
@@ -125,7 +125,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 NODE_ENV=production
 ```
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 globalstream-iptv/
@@ -141,7 +141,7 @@ globalstream-iptv/
 └── vite.config.ts     # Vite configuration
 ```
 
-## 🐳 Docker Architecture
+## Docker Architecture
 
 - **Multi-stage build** for optimized image size
 - **Nginx** serves the production build
@@ -149,13 +149,13 @@ globalstream-iptv/
 - **Port 8547** to avoid common port conflicts
 - **Production-ready** with security headers and gzip compression
 
-## 🔍 Health Check
+## Health Check
 
 Access the health check endpoint:
 - Docker: [http://localhost:8547/health](http://localhost:8547/health)
 - Local dev: [http://localhost:3000/health](http://localhost:3000/health)
 
-## 📦 Building for Production
+## Building for Production
 
 ### With Docker
 ```bash
@@ -168,7 +168,7 @@ npm run build
 npm run preview
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 19** - UI Framework
 - **TypeScript** - Type safety
@@ -178,7 +178,7 @@ npm run preview
 - **Nginx** - Production server
 - **Docker** - Containerization
 
-## 📝 Notes
+## Notes
 
 - The app is configured to run on an uncommon port (8547) to avoid conflicts
 - All environment variables are loaded from `.env.local`
@@ -186,7 +186,7 @@ npm run preview
 - Nginx serves the built static files with proper caching and compression
 - Health checks are configured for container monitoring
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Docker build fails
 ```bash
@@ -202,6 +202,6 @@ Edit `docker-compose.yml` and change `8547` to another port
 ### Environment variables not working
 Ensure `.env.local` exists and contains valid values
 
-## 📄 License
+## License
 
 
