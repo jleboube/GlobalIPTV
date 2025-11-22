@@ -5,6 +5,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docs.docker.com/compose/)
 [![GitHub stars](https://img.shields.io/github/stars/jleboube/GlobalIPTV?style=social)](https://github.com/jleboube/GlobalIPTV/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jleboube/GlobalIPTV?style=social)](https://github.com/jleboube/GlobalIPTV/network/members)
+
 [![GitHub issues](https://img.shields.io/github/issues/jleboube/GlobalIPTV)](https://github.com/jleboube/GlobalIPTV/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/jleboube/GlobalIPTV)](https://github.com/jleboube/GlobalIPTV/pulls)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CCBY--NC--SA4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -31,8 +32,9 @@ GlobalTV Channels and Video Stream
 
 This contains everything you need to run your app locally or deploy with Docker.
 
+## Quick Start 
 
-## Quick Start with Docker (Recommended)
+### Quick Start with Docker (Recommended)
 
 **Prerequisites:** Docker and Docker Compose
 
