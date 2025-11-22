@@ -1,8 +1,33 @@
 <div align="center">
 
+# GlobalStream IPTV & VEO Studio
+
+[![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docs.docker.com/compose/)
+[![GitHub stars](https://img.shields.io/github/stars/jleboube/GlobalIPTV?style=social)](https://github.com/jleboube/GlobalIPTV/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jleboube/GlobalIPTV?style=social)](https://github.com/jleboube/GlobalIPTV/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/jleboube/GlobalIPTV)](https://github.com/jleboube/GlobalIPTV/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/jleboube/GlobalIPTV)](https://github.com/jleboube/GlobalIPTV/pulls)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CCBY--NC--SA4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muscl3n3rd)
+
+[Demo](https://tv.z-p.me) • [Screenshots](#screenshots) • [Quick Start](#quick-start) • [Tech Stack](#tech-stack) 
+
 </div>
 
-# GlobalStream IPTV & VEO Studio
+## Screenshots
+
+<div align="center">
+
+GlobalTV Landing Page
+
+![Alt text](docs/tv-1.png "GlobalIPTV Landing Page")
+
+GlobalTV Channels and Video Stream
+
+![Alt text](docs/tv-2.png "GlobalIPTV channels and video stream")
+
+</div>
 
 This contains everything you need to run your app locally or deploy with Docker.
 
