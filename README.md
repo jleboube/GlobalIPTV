@@ -1,6 +1,6 @@
 <div align="center">
 
-# GlobalStream IPTV & VEO Studio
+# GlobalStream IPTV
 
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docs.docker.com/compose/)
 [![GitHub stars](https://img.shields.io/github/stars/jleboube/GlobalIPTV?style=social)](https://github.com/jleboube/GlobalIPTV/stargazers)
