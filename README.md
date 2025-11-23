@@ -1,14 +1,24 @@
 <div align="center">
 
 # GlobalStream IPTV
+Homelab Tools used:
 
+[![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#)
+[![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?logo=gitea&logoColor=fff)](#)
+
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docs.docker.com/compose/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+
 [![GitHub stars](https://img.shields.io/github/stars/jleboube/GlobalIPTV?style=social)](https://github.com/jleboube/GlobalIPTV/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jleboube/GlobalIPTV?style=social)](https://github.com/jleboube/GlobalIPTV/network/members)
-
 [![GitHub issues](https://img.shields.io/github/issues/jleboube/GlobalIPTV)](https://github.com/jleboube/GlobalIPTV/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/jleboube/GlobalIPTV)](https://github.com/jleboube/GlobalIPTV/pulls)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CCBY--NC--SA4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muscl3n3rd)
 
@@ -207,3 +217,5 @@ Ensure `.env.local` exists and contains valid values
 ## License
 
 
+#### Info
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joe-leboube)
